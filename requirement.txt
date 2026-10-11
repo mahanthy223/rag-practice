@@ -1,0 +1,8 @@
+langchain==0.3.28
+langchain-core==0.3.82
+langchain-community==0.3.31
+langchain-openai<1
+python-dotenv
+pypdf
+sentence-transformers
+chromadb

@@ -1,0 +1,233 @@
+RAG PRACTICE DOCUMENT
+Company: BrightPath Technologies
+Document Type: Employee Handbook and IT Support FAQ
+Version: 1.2
+Last Updated: 10 October 2026
+
+============================================================
+1. COMPANY OVERVIEW
+============================================================
+
+BrightPath Technologies is a fictional software company with offices in Hyderabad,
+Bengaluru, and Pune. The company develops web applications, data platforms, and
+AI-powered business tools.
+
+The Hyderabad office is located at 4th Floor, Orion Business Center, Madhapur,
+Hyderabad, Telangana 500081. The office reception is open Monday through Friday
+from 9:00 AM to 6:00 PM.
+
+The company's standard working hours are 9:30 AM to 6:30 PM, Monday through
+Friday. Teams may have different schedules if their manager approves them.
+
+============================================================
+2. LEAVE POLICY
+============================================================
+
+Full-time employees receive 18 days of paid leave and 12 days of sick leave
+per calendar year. Leave balances are prorated for employees who join during
+the year.
+
+Employees should submit planned leave requests through the People Portal at
+least three working days before the leave begins. Their manager must approve
+the request before the leave is considered approved.
+
+For unexpected illness, employees should inform their manager as soon as
+possible. A medical certificate may be requested for sick leave lasting more
+than three consecutive working days.
+
+Unused paid leave may be carried forward up to a maximum of five days into
+the next calendar year. Sick leave cannot be carried forward or converted to
+cash.
+
+Contractors follow the leave terms in their individual contracts and do not
+automatically receive the employee leave allowance described above.
+
+============================================================
+3. REMOTE WORK POLICY
+============================================================
+
+Employees may work remotely up to two days per week with manager approval.
+Remote days should be recorded in the People Portal by the previous Friday.
+
+Employees must use the company-approved VPN when accessing internal systems
+from outside the office. Confidential company data must not be downloaded to
+personal devices.
+
+Employees who handle restricted customer information must work from an
+approved private location and use a company-managed device.
+
+Remote work is not automatically available to contractors; their arrangement
+must be confirmed in their contract or with the project manager.
+
+============================================================
+4. IT SUPPORT AND ACCESS
+============================================================
+
+Employees can create an IT ticket through the HelpDesk Portal. The support
+team operates Monday through Friday, 8:00 AM to 8:00 PM.
+
+For a standard laptop or software issue, the target first response time is
+four business hours. For a critical outage affecting an entire team, the
+target first response time is 30 minutes during support hours.
+
+To request access to a new application, employees must submit an Access
+Request ticket, identify the application, explain the business reason, and
+name their manager. The manager and application owner must approve access.
+
+Passwords must never be shared through email or chat. If an employee suspects
+that their account has been compromised, they should contact IT immediately
+and use the password reset page from a trusted device.
+
+For urgent security incidents outside support hours, call the on-call security
+number listed in the company directory. Do not invent or guess this number.
+
+============================================================
+5. EXPENSE REIMBURSEMENT
+============================================================
+
+Business travel expenses must be submitted through the Expense Portal within
+30 calendar days after the trip ends.
+
+Receipts are required for individual expenses of INR 500 or more. Claims must
+include the date, business purpose, expense category, and project code.
+
+Manager approval is required before Finance processes a reimbursement.
+Approved claims are normally paid within ten business days. Missing receipts
+or incorrect project codes may delay payment.
+
+Personal purchases, traffic fines, and expenses without a valid business
+purpose are not reimbursable.
+
+============================================================
+6. INFORMATION SECURITY
+============================================================
+
+Employees must lock their computers whenever they leave their workstations.
+Company data must be stored only in approved company systems.
+
+Multi-factor authentication (MFA) is required for email, source control, and
+cloud administration accounts.
+
+Employees must not paste confidential source code, customer records, API keys,
+passwords, or access tokens into public AI tools.
+
+Suspected phishing emails should be reported using the Report Phishing option
+in the email client. Employees should not open suspicious attachments or enter
+their credentials on links from unexpected messages.
+
+Lost or stolen company devices must be reported to IT immediately.
+
+============================================================
+7. LEARNING AND DEVELOPMENT
+============================================================
+
+Each full-time employee may claim up to INR 20,000 per calendar year for
+approved job-related courses or certifications.
+
+Before purchasing a course, the employee must submit a Learning Request in the
+People Portal. The manager and Learning and Development team must approve it.
+
+Reimbursement requires proof of payment and a completion certificate, where
+the course provides one. Unapproved courses are not eligible for reimbursement.
+
+The allowance cannot be transferred between employees or carried forward to
+the next year.
+
+============================================================
+8. PERFORMANCE REVIEWS
+============================================================
+
+Formal performance reviews take place twice each year, in April and October.
+
+Employees should submit a self-review before the deadline announced by HR.
+Managers evaluate delivery, technical skills, collaboration, communication,
+and progress against agreed goals.
+
+A performance rating does not automatically guarantee a salary increase or
+promotion. Compensation decisions depend on performance, business needs,
+budget, and internal compensation guidelines.
+
+Employees who disagree with review feedback should first discuss it with their
+manager. If the concern remains unresolved, they may contact HR.
+
+============================================================
+9. ONBOARDING CHECKLIST
+============================================================
+
+New employees should complete the following steps during their first week:
+
+1. Activate their company email and MFA.
+2. Review the Information Security Policy.
+3. Confirm payroll and emergency contact details in the People Portal.
+4. Complete required compliance training.
+5. Request access to project repositories and development environments.
+6. Meet their manager to review team goals and onboarding expectations.
+
+IT equipment requests should be submitted at least five business days before
+the employee's start date when possible. Equipment delivery depends on stock
+and location.
+
+============================================================
+10. FREQUENTLY ASKED QUESTIONS
+============================================================
+
+Q: How many paid leave days does a full-time employee receive?
+A: 18 paid leave days per calendar year, subject to prorating for the joining
+   date.
+
+Q: Can I carry forward all unused paid leave?
+A: No. Up to five unused paid leave days may be carried forward. Sick leave
+   cannot be carried forward.
+
+Q: How many days per week can I work remotely?
+A: Up to two days per week with manager approval. Remote days must be recorded
+   in the People Portal by the previous Friday.
+
+Q: What is the target response time for a critical team-wide IT outage?
+A: 30 minutes during IT support hours, which are Monday through Friday,
+   8:00 AM to 8:00 PM.
+
+Q: When should I submit business travel expenses?
+A: Within 30 calendar days after the trip ends.
+
+Q: What is the annual learning allowance?
+A: Up to INR 20,000 for approved job-related courses or certifications.
+
+Q: How often are formal performance reviews held?
+A: Twice per year, in April and October.
+
+Q: Can I upload customer data to a public AI chatbot to debug an issue?
+A: No. Confidential customer data, source code, credentials, and access tokens
+   must not be pasted into public AI tools.
+
+Q: What should I do if I suspect my account has been compromised?
+A: Contact IT immediately and use the password reset page from a trusted device.
+
+Q: What is the exact on-call security phone number?
+A: This document does not specify the number. Check the company directory.
+   Do not guess the number.
+
+============================================================
+11. TEST QUESTIONS FOR YOUR RAG APPLICATION
+============================================================
+
+Use these questions to test retrieval and grounded answers:
+
+1. How many paid leave days do full-time employees receive?
+2. What is the maximum number of paid leave days that can be carried forward?
+3. How many remote days are allowed each week, and who approves them?
+4. What is the IT target response time for a critical team-wide outage?
+5. How long do employees have to submit travel expenses?
+6. What is the annual learning and development allowance?
+7. What approvals are required for application access?
+8. Which information must never be pasted into public AI tools?
+9. How frequently are performance reviews held?
+10. What is the security on-call phone number?
+11. Do contractors automatically receive the same leave allowance as employees?
+12. What happens if an expense claim has missing receipts?
+
+Expected RAG behavior:
+- Answer using only information found in this document.
+- If the answer is not present, say that the document does not specify it.
+- Include the relevant section or a short supporting quote when possible.
+- Do not invent policies, phone numbers, approval rules, or dates.
