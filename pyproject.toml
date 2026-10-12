@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rag-practice"
+version = "0.1.0"
+description = "A local document-ingestion and retrieval-augmented question-answering CLI."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=1.0,<2",
+    "langchain-community>=0.3.31,<0.4",
+    "langchain-core>=0.3.82,<2",
+    "langchain-openai>=0.3,<1",
+    "langchain-text-splitters>=0.3.11,<1",
+    "pypdf>=5,<7",
+    "python-dotenv>=1,<2",
+    "sentence-transformers>=3,<7",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8,<9",
+    "ruff>=0.11,<1",
+]
+
+[project.scripts]
+rag-practice = "rag_practice.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]

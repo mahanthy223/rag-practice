@@ -1,5 +1,12 @@
-/.venv
+.venv/
+venv/
 .env
 **/.env
 __pycache__/
 **/vectore_store/
+.data/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
